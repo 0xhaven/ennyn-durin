@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather input="dtmf speech" speechTimeout="5" actionOnEmptyResult="true" action="{validate URL}">
+    	<Play>{Your challenge MP3 file}</Play>
+    </Gather>
+</Response>
